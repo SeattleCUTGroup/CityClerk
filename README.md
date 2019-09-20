@@ -1,4 +1,4 @@
-###Seattle CUT Session 4: City Clerk
+### Seattle CUT Session 4: City Clerk
 
 This is a repository to document and plan a CUT Session for the City of Seattle City Clerk's office. The tests will focus on the ability to search for and find legisltative informaiton through the platform Legistar.  
 
